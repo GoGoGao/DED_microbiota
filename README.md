@@ -305,4 +305,3 @@ Rscript pam.r \
 
 ---
 
-## Quick Reproduction (Using Pre-computed Results)
