@@ -47,7 +47,7 @@ Each plotting script simultaneously outputs the corresponding **TSV source data*
 A Conda environment is recommended:
 
 ```bash
-conda activate claude_env
+conda activate eyemicrobiota_env
 ```
 
 ### Python Dependencies
